@@ -1,0 +1,25 @@
+.nav{
+    
+    align-items: center;
+    justify-content: space-around;
+    background-color: #282c34;
+    padding: 30px;
+    
+}  
+
+
+.nav_total {
+        display: flex;
+        align-items: center;
+        justify-content: space-evenly;        
+        list-style-type: none;
+        color: white;
+        position: relative;
+
+    }
+
+.list > MuiSvgIcon {
+    /* background-color: tomato; */
+        position: relative;
+        bottom: 10px;
+    }
